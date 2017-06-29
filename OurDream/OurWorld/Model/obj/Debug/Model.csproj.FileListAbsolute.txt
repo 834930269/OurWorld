@@ -1,0 +1,4 @@
+E:\OurWorld\Model\bin\Debug\Model.dll
+E:\OurWorld\Model\bin\Debug\Model.pdb
+E:\OurWorld\Model\obj\Debug\Model.dll
+E:\OurWorld\Model\obj\Debug\Model.pdb

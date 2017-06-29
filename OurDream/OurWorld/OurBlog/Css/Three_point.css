@@ -1,0 +1,60 @@
+﻿body {
+}
+/* 三分全局div */
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+    width:100%;
+    height:100%;
+    position:absolute;
+}
+.quarter-div{
+    width:100%;
+    height:4%;
+    position:fixed;
+    z-index:1300;
+}
+.quarter-menu-div{
+    width:26%;
+    height:100%;
+    float:left;
+    position:fixed;
+    z-index:998;
+}
+.quarter-view-div {
+    width: 87%;
+    height: 100%;
+    float: right;
+    overflow: visible !important;
+    overflow-x: visible;
+    overflow-y: visible;
+    z-index:995
+}
+
+.blue{
+    background-color:#5BC0DE;
+}
+.GBlack{
+    background-color:#191919;
+}
+.orange{
+    background-color:#bdbdbd;
+}
+.yellow{
+    background-color:#FFC706;
+}
+
+.odcontent{
+    z-index:10;
+    height:20%;
+    width:100%;
+    display:none;
+}
+
+li{
+    list-style-type:none;
+    margin-top:20px;
+    width:auto;
+}

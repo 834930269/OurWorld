@@ -1,0 +1,9 @@
+E:\OurWorld\BLL\bin\Debug\BLL.dll
+E:\OurWorld\BLL\bin\Debug\BLL.pdb
+E:\OurWorld\BLL\bin\Debug\DAL.dll
+E:\OurWorld\BLL\bin\Debug\Model.dll
+E:\OurWorld\BLL\bin\Debug\DAL.pdb
+E:\OurWorld\BLL\bin\Debug\Model.pdb
+E:\OurWorld\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\OurWorld\BLL\obj\Debug\BLL.dll
+E:\OurWorld\BLL\obj\Debug\BLL.pdb

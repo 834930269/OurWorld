@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Qut机器人-图灵接口</title>
+    <script src="Js/jquery.js"></script>
+    <script src="Js/Robot.js"></script>
+    <link rel="stylesheet" type="text/css" href="Css/Robot_Style.css" />
+</head>
+<body style="background-image:url('Image/background.jpg')">
+    <div id="parent1">
+        <div id="root" style="filter:alpha(Opacity=40);-moz-opacity:0.7;opacity: 0.7;">
+            <p class="p_class"><strong>来自qut的蒙太奇</strong></p>
+        </div>
+        <div id="chat">
+            <div id="root2">
+                <table id="table1"></table>
+                <div id="div_end"></div>
+            </div>
+            <hr id="hr1" />
+            <div id="div1">
+                <textarea id="text1" onclick="setNull()" onmouseout="setHint()" style="filter:alpha(Opacity=80);-moz-opacity:0.5;opacity: 0.5;"></textarea>
+                <br />
+                <button id="btn1" onclick="sendData()" style="filter:alpha(Opacity=20);-moz-opacity:0.8;opacity: 0.8;">告诉它</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

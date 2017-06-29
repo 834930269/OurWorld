@@ -1,0 +1,9 @@
+E:\OurWorld\Model\bin\Release\Model.dll
+E:\OurWorld\Model\bin\Release\Model.pdb
+E:\OurWorld\Model\obj\Release\Model.dll
+E:\OurWorld\Model\obj\Release\Model.pdb
+E:\学习相关\Net实验\OurWorld\Model\bin\Release\Model.dll
+E:\学习相关\Net实验\OurWorld\Model\bin\Release\Model.pdb
+E:\学习相关\Net实验\OurWorld\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+E:\学习相关\Net实验\OurWorld\Model\obj\Release\Model.dll
+E:\学习相关\Net实验\OurWorld\Model\obj\Release\Model.pdb

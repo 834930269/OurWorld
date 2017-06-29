@@ -1,0 +1,14 @@
+E:\OurWorld\DAL\bin\Release\DAL.dll
+E:\OurWorld\DAL\bin\Release\DAL.pdb
+E:\OurWorld\DAL\bin\Release\Model.dll
+E:\OurWorld\DAL\bin\Release\Model.pdb
+E:\OurWorld\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\OurWorld\DAL\obj\Release\DAL.dll
+E:\OurWorld\DAL\obj\Release\DAL.pdb
+E:\学习相关\Net实验\OurWorld\DAL\bin\Release\DAL.dll
+E:\学习相关\Net实验\OurWorld\DAL\bin\Release\DAL.pdb
+E:\学习相关\Net实验\OurWorld\DAL\bin\Release\Model.dll
+E:\学习相关\Net实验\OurWorld\DAL\bin\Release\Model.pdb
+E:\学习相关\Net实验\OurWorld\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\学习相关\Net实验\OurWorld\DAL\obj\Release\DAL.dll
+E:\学习相关\Net实验\OurWorld\DAL\obj\Release\DAL.pdb
